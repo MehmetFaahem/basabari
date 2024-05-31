@@ -83,7 +83,7 @@ const Routes = [
 function Header() {
   const pathname = usePathname();
   return (
-    <div className="fixed flex justify-between flex-row space-x-2 px-[20px] py-[10px] bottom-0 bg-gradient-to-tr from-amber-200 to-amber-100  rounded-t-3xl shadow-2xl w-[60%] h-[80px]">
+    <div className="fixed z-[999] flex justify-between flex-row space-x-2 px-[20px] py-[10px] top-0 bg-gradient-to-tr from-amber-200 to-amber-100  rounded-b-3xl shadow-2xl w-[60%] h-[80px]">
       {Routes.map((data, index) => (
         <Link
           href={data.path}

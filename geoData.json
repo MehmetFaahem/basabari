@@ -1,0 +1,179 @@
+{
+  "countries": [
+    {
+      "name": "Bangladesh",
+      "divisions": [
+        {
+          "name": "Dhaka Division",
+          "cities": [
+            "Dhaka",
+            "Narayanganj",
+            "Gazipur",
+            "Tangail",
+            "Manikganj",
+            "Madaripur",
+            "Gopalganj",
+            "Munshiganj",
+            "Rajbari",
+            "Shariatpur",
+            "Faridpur",
+            "Jamalpur",
+            "Kishoreganj",
+            "Sherpur"
+          ],
+          "towns": ["Narsingdi"]
+        },
+        {
+          "name": "Chittagong Division",
+          "cities": [
+            "Chittagong",
+            "Cox's Bazar",
+            "Comilla",
+            "Feni",
+            "Khagrachari",
+            "Rangamati",
+            "Bandarban",
+            "Brahmanbaria",
+            "Chandpur",
+            "Laxmipur",
+            "Noakhali"
+          ],
+          "towns": []
+        },
+        {
+          "name": "Rajshahi Division",
+          "cities": [
+            "Bogura",
+            "Joypurhat",
+            "Naogaon",
+            "Natore",
+            "Pabna",
+            "Sirajganj",
+            "Chapai Nawabganj"
+          ],
+          "towns": []
+        },
+        {
+          "name": "Khulna Division",
+          "cities": [
+            "Jessore",
+            "Satkhira",
+            "Kushtia",
+            "Khulna",
+            "Bagerhat",
+            "Chuadanga",
+            "Jhenaidah",
+            "Magura",
+            "Meherpur",
+            "Narail"
+          ],
+          "towns": []
+        },
+        {
+          "name": "Barisal Division",
+          "cities": [
+            "Barisal",
+            "Bhola",
+            "Jhalokati",
+            "Patuakhali",
+            "Pirojpur",
+            "Barguna"
+          ],
+          "towns": []
+        },
+        {
+          "name": "Sylhet Division",
+          "cities": ["Sylhet", "Moulvibazar", "Habiganj", "Sunamganj"],
+          "towns": []
+        },
+        {
+          "name": "Rangpur Division",
+          "cities": [
+            "Rangpur",
+            "Dinajpur",
+            "Gaibandha",
+            "Kurigram",
+            "Lalmonirhat",
+            "Nilphamari",
+            "Panchagarh",
+            "Thakurgaon"
+          ],
+          "towns": []
+        },
+        {
+          "name": "Mymensingh Division",
+          "cities": ["Mymensingh", "Jamalpur", "Netrokona", "Sherpur"],
+          "towns": []
+        }
+      ],
+      "towns": []
+    },
+    {
+      "name": "India",
+      "divisions": [
+        {
+          "name": "Northern Region",
+          "cities": ["Delhi", "Chandigarh", "Jaipur", "Lucknow"],
+          "towns": []
+        },
+        {
+          "name": "Western Region",
+          "cities": ["Mumbai", "Ahmedabad", "Pune", "Surat"],
+          "towns": []
+        },
+        {
+          "name": "Eastern Region",
+          "cities": ["Kolkata", "Patna", "Bhubaneswar", "Ranchi"],
+          "towns": []
+        },
+        {
+          "name": "Southern Region",
+          "cities": ["Chennai", "Bangalore", "Hyderabad", "Kochi"],
+          "towns": []
+        },
+        {
+          "name": "Central Region",
+          "cities": ["Bhopal", "Nagpur", "Indore", "Jabalpur"],
+          "towns": []
+        }
+      ],
+      "towns": []
+    },
+    {
+      "name": "Pakistan",
+      "divisions": [
+        {
+          "name": "Punjab Province",
+          "cities": ["Lahore", "Faisalabad", "Rawalpindi", "Multan"],
+          "towns": []
+        },
+        {
+          "name": "Sindh Province",
+          "cities": ["Karachi", "Hyderabad", "Sukkur", "Larkana"],
+          "towns": []
+        },
+        {
+          "name": "Khyber Pakhtunkhwa Province",
+          "cities": ["Peshawar", "Abbottabad", "Mardan", "Swat"],
+          "towns": []
+        },
+        {
+          "name": "Balochistan Province",
+          "cities": ["Quetta", "Gwadar", "Turbat", "Zhob"],
+          "towns": []
+        },
+        {
+          "name": "Gilgit-Baltistan Region",
+          "cities": ["Gilgit", "Skardu"],
+          "towns": []
+        },
+        {
+          "name": "Azad Jammu and Kashmir",
+          "cities": ["Muzaffarabad", "Mirpur", "Kotli"],
+          "towns": []
+        }
+      ],
+      "towns": []
+    }
+  ]
+}

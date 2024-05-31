@@ -27,11 +27,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${poppins.variable} ${hind.variable}`}>
-      <body className="w-screen h-screen bg-gradient-to-bl from-slate-50 to-amber-300 ">
+      <body className="bg-gradient-to-bl from-slate-50 to-amber-300 ">
         <section className="flex justify-center items-center">
           <Header />
         </section>
-        <section className="px-[5%] py-[5%]">{children}</section>
+        <section className="">{children}</section>
       </body>
     </html>
   );
